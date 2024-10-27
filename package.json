@@ -1,0 +1,19 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "Study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordomarian/JS_Study.git"
+  },
+  "author": "Kozlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordomarian/JS_Study/issues"
+  },
+  "homepage": "https://github.com/Lordomarian/JS_Study#readme"
+}
